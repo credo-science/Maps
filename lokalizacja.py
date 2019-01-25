@@ -39,7 +39,7 @@ print (dzien)
 #for l in f:
 	#zacznijod = int(l)-10#dla bezpieczenstwa czytamy wiecej cos bylo nie tak z nazwami -> odkomentuj pozniej
 #f.close()
-zacznijod = 80#zaczynamy od 30 pliku - przyspieszy dzialanie programu
+zacznijod = 30#zaczynamy od 30 pliku - przyspieszy dzialanie programu
 #zmienna "zacznijod: decyduje ile plikow bierzemy pod uwage, jesli chcemy czytać pliki z 1 dnia, to bez sensu jest czytać wszystkie paczki, ustawione na 30 ponieważ nie wiem ile paczek jest u Ciebie
 
 sciezka='/home/slawekstu/Pulpit/credo-data-export/' #sciezka do folderu "credo-data-export"
