@@ -42,7 +42,7 @@ print (dzien)
 zacznijod = 80#zaczynamy od 30 pliku - przyspieszy dzialanie programu
 #zmienna "zacznijod: decyduje ile plikow bierzemy pod uwage, jesli chcemy czytać pliki z 1 dnia, to bez sensu jest czytać wszystkie paczki, ustawione na 30 ponieważ nie wiem ile paczek jest u Ciebie
 
-sciezka='/media/slawekstu/Gry i Programy/Praca/Api/od12 do 26/credo-data-export/' #sciezka do folderu "credo-data-export"
+sciezka='/home/slawekstu/Pulpit/credo-data-export/' #sciezka do folderu "credo-data-export"
 sciezka2 = sciezka+"Lokalizacja/"+str(rok)+"/"+str(miesiac)+"/"
 sciezkalokalizacji = sciezka2+str(dzien)+"/"#sciezka dnia wczorajszego gdzie zapiszemy wyniki
 if dzien == 28:
