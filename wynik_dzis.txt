@@ -1,0 +1,58 @@
+12SPJasło;5403
+13LO Kraków;14551
+Altair;214
+Antares;223
+Armia Andersa;494
+AstroSiedlec;104
+Astronomia;8360
+Atomówki;119
+BOCHNIA;777
+Bimbrownia;0
+Bonum Futurum;0
+BrzeźnicaSpace;687
+CR300;17819
+CREDO 4LO KEN BB;7255
+CREDO ASP OXFORD;11052
+CREDO Porabka;24
+CReDaToRs;390
+Czastki KRK pro;0
+Czastkomocni;0
+Czeczot;52
+DELTA3;3245
+FASOLKI;8848
+Gosprzydowa;5
+II LO Tarnowskie Góry;9899
+Jaworów Team;2927
+K7Ż;572
+KL78;11
+KOPER;614
+Kwiatek;9983
+LONisko;531
+LOZP Krakow;3016
+Nakielanie;1013
+Naukowcy ze Szczytnik;2531
+Odkrywcy Krzeczów;223
+PTMA;1784
+SP Bystra;1210
+SP11Dębica;0
+SP12Debica;0
+SP2;965
+SP53 Wroclaw;19
+SPOŁPINY;0
+SPSZERZYNY;416
+SZKOŁA PODSTAWOWASWOSZOWA;0
+Salezjanie;3708
+Team Rzezawa;1084
+Tischner.Wadowice.;24156
+XI LO Kraków;47941
+ananasy z sp26krk;9949
+credogosia;614
+ekonomik1;2276
+lo1credo;609
+morcikteam;12122
+oajasło;13
+sidzina;4665
+spwierzchoslawice;840
+zeromski.bielsko;7141
+zseo tarnów;2697
+ŁazyGalactic;2855
